@@ -1,0 +1,29 @@
+/* Reset CSS */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+}
+
+/* Center container styling */
+.center-container {
+  text-align: center;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Message styling */
+.message {
+  font-size: 18px;
+  color: #333;
+  margin: 0;
+}
