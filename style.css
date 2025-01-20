@@ -32,7 +32,7 @@ html {
   padding: 16px 24px;
   font-size: 20px;
   color: rgba(255, 255, 255, 1);
-  font-weight: 100;
+  font-weight: 400;
   background: var(--btn, linear-gradient(90deg, #b11a1f 0%, #ed2024 100%));
   box-shadow: 0px 12.317px 27.532px -8.694px rgba(224, 56, 56, 0.54),
     0px 1.449px 8.694px -7.245px rgba(5, 9, 41, 0.13);
