@@ -29,7 +29,6 @@ html {
 
 .download-button {
   display: inline-block;
-  padding: 16px 24px;
   font-size: 20px;
   color: rgba(255, 255, 255, 1);
   font-weight: 400;
@@ -39,4 +38,28 @@ html {
   border: none;
   border-radius: 40px;
   text-decoration: none;
+}
+
+.download-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.download-btn {
+  display: flex;
+  text-decoration: none;
+  gap: 14px;
+  padding: 16px 28px;
+}
+
+.download-img {
+  width: 24px;
+}
+
+.download-text {
+  font-size: 22px;
+  margin-top: 1px;
+  color: #ffffff;
 }
